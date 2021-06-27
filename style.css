@@ -67,6 +67,9 @@ html,body {
 #navbar ul li:hover ul li:hover span {
   background: var(--secondary-color);
 }
+#navbar .drop-down {
+  color: var(--primary-color);
+}
 #showcase {
   display: flex;
   flex-direction: column;
